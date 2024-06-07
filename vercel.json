@@ -11,7 +11,7 @@
    
     {
         "src": "/(.*)",
-        "dest": "from/wsgi.py"
+        "dest": "form/wsgi.py"
     }
     ]
     }
